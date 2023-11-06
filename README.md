@@ -23,6 +23,8 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 
+### OUTPUT:
+![ex5 eh](https://github.com/Dhanashreemullaithasan/Compromising-windows-using-Metasploit/assets/94165415/02cedbdd-26a7-4e76-847f-b685f86b3c66)
 
 
 ## RESULT:
